@@ -1,6 +1,6 @@
 # StreetFighter
 
-> A project / game‑engine / browser game inspired by *Street Fighter*.
+A JavaScript OOP browser game project inspired by *Street Fighter*.
 
 ## About
 
