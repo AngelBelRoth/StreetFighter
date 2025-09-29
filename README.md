@@ -8,7 +8,6 @@ This repository contains the source code written in JavaScript for a Street Figh
 
 ## Demo / Live version
 
-If you have a hosted version, link here:  
 `https://angelbelroth.github.io/StreetFighter/`  
 
 <img width="1600" height="786" alt="Screenshot 2025-09-29 at 12 23 24" src="https://github.com/user-attachments/assets/0e113399-a4c5-4705-9256-20a5e9389547" />
